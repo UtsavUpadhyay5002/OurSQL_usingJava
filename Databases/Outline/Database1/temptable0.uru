@@ -1,0 +1,3 @@
+columnName,dataType,length
+column1,int,10
+column2,varchar,50
